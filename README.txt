@@ -1,0 +1,2 @@
+This program was written to simulate a traffic intersection where pedestrians can press a switch (interfaced from a small breadboard circuit built with pins, resistors, and switches). Six LED lights were also present on the breadboard to simulate two traffic lights. 
+Used a finite state machine (FSM) to structure current signal status, and how the lights would change based on the pedestrian input. 
